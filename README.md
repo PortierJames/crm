@@ -1,6 +1,4 @@
-This is the SIMULACRUM module of Portier Prep's integrated software environment.
-
-...it's a CRM, kiddos.
+Simple CRM
 
 Structure of the Project:
 
